@@ -11,7 +11,7 @@ api/Product/UpdateProduct
 
 not Authorization
 api/Category/GetListCategory
-api/Category/GetProductForCategoryOne
+api/Category/GetProductForCategoryOne?idcategory={id}
 
 
 must Authorization
