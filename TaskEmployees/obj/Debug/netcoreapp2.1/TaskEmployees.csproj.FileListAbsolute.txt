@@ -1,0 +1,14 @@
+D:\FloderProject\TaskEmployees\bin\Debug\netcoreapp2.1\TaskEmployees.deps.json
+D:\FloderProject\TaskEmployees\bin\Debug\netcoreapp2.1\TaskEmployees.runtimeconfig.json
+D:\FloderProject\TaskEmployees\bin\Debug\netcoreapp2.1\TaskEmployees.runtimeconfig.dev.json
+D:\FloderProject\TaskEmployees\bin\Debug\netcoreapp2.1\TaskEmployees.dll
+D:\FloderProject\TaskEmployees\bin\Debug\netcoreapp2.1\TaskEmployees.pdb
+D:\FloderProject\TaskEmployees\obj\Debug\netcoreapp2.1\TaskEmployees.csproj.CoreCompileInputs.cache
+D:\FloderProject\TaskEmployees\obj\Debug\netcoreapp2.1\TaskEmployees.RazorAssemblyInfo.cache
+D:\FloderProject\TaskEmployees\obj\Debug\netcoreapp2.1\TaskEmployees.RazorAssemblyInfo.cs
+D:\FloderProject\TaskEmployees\obj\Debug\netcoreapp2.1\TaskEmployees.AssemblyInfoInputs.cache
+D:\FloderProject\TaskEmployees\obj\Debug\netcoreapp2.1\TaskEmployees.AssemblyInfo.cs
+D:\FloderProject\TaskEmployees\obj\Debug\netcoreapp2.1\TaskEmployees.RazorTargetAssemblyInfo.cache
+D:\FloderProject\TaskEmployees\obj\Debug\netcoreapp2.1\TaskEmployees.dll
+D:\FloderProject\TaskEmployees\obj\Debug\netcoreapp2.1\TaskEmployees.pdb
+D:\FloderProject\TaskEmployees\obj\Debug\netcoreapp2.1\TaskEmployees.csprojAssemblyReference.cache
